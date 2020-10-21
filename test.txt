@@ -4,4 +4,8 @@ sh  today
 
 today2
 
+<<<<<<< HEAD
 ÐÖ°®»¤
+=======
+tody3
+>>>>>>> 308c4ba0e4069463aeb379f25588c4ee4229642f
